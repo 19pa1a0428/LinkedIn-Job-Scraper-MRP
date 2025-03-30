@@ -12,7 +12,7 @@
 - **```logins.csv```**
   - Populate with multiple LinkedIn logins
   - Specify the purpose of the login (search or detail retreiever)
-  - I recommend 1-3 logins for search and the remaining for more expensive attribute retrieval
+  - I recommend 1-3 logins for search and the remaining for more expensive attribute retrieval.
 ## Optional
 - **```details_retriever.py```**
   - **MAX_UPDATES**: - Number of job postings to look up before sleeping. Increase with more accounts/proxies (default = 25)
